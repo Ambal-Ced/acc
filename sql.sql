@@ -1,3 +1,3 @@
 create database re;
 
-create table fire(red);
+create table fire(red,white);
